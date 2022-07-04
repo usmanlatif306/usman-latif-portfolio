@@ -11,9 +11,12 @@ const About: NextPage = () => {
     <div className="flex flex-col flex-grow px-6 pt-1 ">
       <HeadText headTitle="" />
       <h6 className="my-3 text-base font-medium">
-        I am currently working as a full stack developer in Xorexs Limited. I
-        have 2+ years of experience in Web Development. I am working on famous
-        frameworks like Laravel, React and Vue Js.
+        I am currently working as a full stack developer in{" "}
+        <a href="https://xorexs.com" className="text-blue-500" target="_blank">
+          Xorexs Limited
+        </a>
+        . I have 3+ years of experience in Web Development. I am working on
+        famous frameworks like Laravel, React and Vue Js.
       </h6>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100 "

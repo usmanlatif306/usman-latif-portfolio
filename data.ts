@@ -17,7 +17,7 @@ export const services: Service[] = [
     Icon: FaServer,
     title: "Backend  Development",
     about:
-      "handle database, server, api using <b>Laravel </b> & <b>Express </b>",
+      "handle database, server, api using <b>Laravel</b>, <b>Node </b> & <b>Express </b>",
   },
   {
     Icon: AiOutlineApi,
@@ -113,7 +113,7 @@ export const projects: IProject[] = [
   },
   {
     name: "Easy Pupils",
-    description: "Easy pupils is a school management system",
+    description: "Easy pupils is a school management system.",
     image_path: "/images/school.png",
     deployed_url: "http://school.javaplums.com",
     github_url: "!#",
