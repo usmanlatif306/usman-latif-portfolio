@@ -112,6 +112,15 @@ export const projects: IProject[] = [
     key_techs: ["Laravel", "MySql", "Vue"],
   },
   {
+    name: "Easy Pupils",
+    description: "Easy pupils is a school management system",
+    image_path: "/images/school.png",
+    deployed_url: "http://school.javaplums.com",
+    github_url: "!#",
+    category: ["laravel"],
+    key_techs: ["Laravel", "Jquery", "MySql"],
+  },
+  {
     name: "Eduintello",
     description: "Eduintello is essay writing service",
     image_path: "/images/edu.png",
